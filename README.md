@@ -1,23 +1,3 @@
-<h1 align="center">BlenderBatchTextures</h1>
-
-<br />
-
-<div align="center">
-
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchTextures/blob/main/images/robot.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchTextures/blob/main/images/frame.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/BlenderBatchTextures/blob/main/images/robot.svg" width=10% height=10%>
-
-</div>
-
-<br />
-
-<div align="center">
-  <strong>Automatic texture exporter for all .blend files in the directory</strong>
-</div>
-
-<br />
-
 <div align="center">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jaime-rodriguez-art/BlenderBatchTextures">
   <a href="https://github.com/jaime-rodriguez-art/BlenderBatchTextures/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jaime-rodriguez-art/BlenderBatchTextures"></a>
